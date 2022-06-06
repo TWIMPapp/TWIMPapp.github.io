@@ -28,7 +28,7 @@ As the community grows, we will also develop a roadmap of new features that maxi
 
 Below are just a few of the ideas that we see as being great early additions to the platform.
 
-1. Task types. Audio/video within tasks or new types of mini games e.g. wordle, jigsaws
+1. Task types. Audio/video within tasks or new types of mini games e.g. Wordle, jigsaws
 2. Optional steps. Hidden information or clues that make each player’s experience unique
 3. Decision trees. Interactive stories where the player gets to choose the path they take
 4. Boundaries. Games where players evade detection or capture a moving target
