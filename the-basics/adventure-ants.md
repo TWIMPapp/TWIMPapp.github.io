@@ -18,7 +18,7 @@ Going back to the real world, we have thousands of species of ants but they tend
 
 | Tribe | Utility                  |
 | ------ | ------------------------ |
-| Earth  | Can join Earth colonies  |
+| Garden | Can join Garden colonies  |
 | Tree | Can join Tree colonies  |
 | Fire    | Can join Fire colonies    |
 | Meadow | Can join Meadow colonies |
