@@ -21,7 +21,7 @@ Going back to the real world, we have thousands of species of ants but they tend
 | Earth  | Can join Earth colonies  |
 | Leaf  | Can join Leaf colonies  |
 | Fire    | Can join Fire colonies    |
-| Water | Can join Water colonies |
+| Light | Can join Light colonies |
 
 Within each tribe, there are multiple colonies.
 
