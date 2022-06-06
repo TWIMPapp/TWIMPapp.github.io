@@ -1,12 +1,12 @@
 # Game Dynamics
 
-So… ants work in a hierarchy of castes and belong to colonies and by owning an Adventure Ant, you are part of the game and part of the colony. It’s your job to do whatever it takes to serve your queen and work together to build the best colony possible.
+So… ants work in a hierarchy and belong to colonies. By owning an Adventure Ant, you are part of the game and can join a colony of your choice. Then, it’s your job to do whatever it takes to serve your queen and work together to build the best colony possible.
 
 You do this by collecting coins and food, by joining quests, executing strategies and finding treasure chests. But to do this, an ant needs energy so let’s start there.
 
 ## Energy
 
-Each Adventure Ant has an energy bar. Collecting coins is hard work for an ant and will sap 0.5 of your energy for each coin you pick up. You cannot collect any more coins once your energy reaches zero and you cannot have more energy than the maximum available for your ant caste and its accessories.
+Each Adventure Ant has an energy bar. Collecting coins is hard work for an ant and will sap 0.5 of your energy for each coin you pick up. You cannot collect any more coins once your energy reaches zero and you cannot have more energy than the maximum available for your ant rank and its accessories.
 
 ?> **Note:** Energy does not recharge by itself and requires food collection.
 

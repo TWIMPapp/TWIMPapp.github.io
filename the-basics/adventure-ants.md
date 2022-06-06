@@ -37,11 +37,11 @@ It’s all about creating friendly competition between colonies and species. But
 
 OK, time to explain the hierarchy within the colony.
 
-## Ant Castes
+## Ant Ranks
 
-To replicate the ants role in the real world, we have three different castes of ants.
+To replicate the ants role in the real world, we have three different rank of ants.
 
-| Caste  | Energy | Utility                                                                                                                                             |
+| Rank  | Energy | Utility                                                                                                                                             |
 | ------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Queen  | 5      | <ul><li>Leads a colony</li><li>Can mint new workers once a month</li><li>Can see quality of food</li><li>Can create trails</li><li>Can verify trails</li></ul> |
 | Drone  | 3      | <ul><li>Can mint new workers once a month</li><li>Can create trails</li><li>Can verify trails</li></ul>                                                        |
@@ -51,7 +51,7 @@ To replicate the ants role in the real world, we have three different castes of 
 
 The Queen ant is the leader of the colony and oversees the comings and goings of all ants in their colony. They are the coordinator, the advocate, the strategist.
 
-The Queen is the biggest ant with the highest energy (can collect lots of coins! 👀). They are also the only caste which can see the value of each food item, unfortunately though they cannot collect it. With an abundance of energy they should have the easiest time collecting coins and managing their territory which makes them exceedingly rare and valuable. Plus, they have incredible wings.
+The Queen is the biggest ant with the highest energy (can collect lots of coins! 👀). They are also the only rank which can see the value of each food item, unfortunately though they cannot collect it. With an abundance of energy they should have the easiest time collecting coins and managing their territory which makes them exceedingly rare and valuable. Plus, they have incredible wings.
 
 In addition, the queen is the main benefactor of the monthly mint event, a process that airdrops new Worker Ant NFTs for them to do as they see fit.
 
@@ -69,7 +69,7 @@ Drones are randomly selected to mint with the queen of their own colony during t
 
 Lastly, we have the worker ant. The workhorse of the colony (as you’d imagine given their name) but their efforts as heroes of the colony cannot be overlooked. That’s simply why our initial collection is made up of these little creatures.
 
-Worker ants can collect coins and food and although they may not be perceived as the highest ranking officials, they are unique in that they are the only caste which can evolve. In exchange for $PLAY, you can choose to evolve into a drone at any time once you have acquired enough $PLAY to make the transition.
+Worker ants can collect coins and food and although they may not be perceived as the highest ranking officials, they are unique in that they are the only rank which can evolve. In exchange for $PLAY, you can choose to evolve into a drone at any time once you have acquired enough $PLAY to make the transition.
 
 ?> **Note:** Evolution is a one time event and cannot be undone. The worker ant involved will be burned to maintain the collection size as a fixed quantity.
 
