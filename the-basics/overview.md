@@ -7,7 +7,7 @@ We are Twimp (The World Is My Playground). As a company we have two main goals.
 
 ## Love Your Planet
 
-Let's face it, becoming the “people” depicted in the Wall-E movie who are permanently attached to their devices, seems like a very bad idea. We’re already evolving into a cybernetic race and some think we are already there based on our attachment to our mobile devices. If technologies such as neuralink progress and the metaverse comes to be, we may indeed have to declare ourselves as no longer homosapiens but rather some other, new variant.
+Let's face it, becoming the “people” depicted in the Wall-E movie who are permanently attached to their devices, seems like a very bad idea. We’re already evolving into a cybernetic race and some think we are already there based on our attachment to our mobile devices. If technologies such as neuralink progress and the metaverse comes to be, we may indeed have to declare ourselves as no longer homo sapiens but rather some other, new variant.
 
 We’re not anti-technology at all, having instant access to unlimited and accurate information is pretty cool actually, we just think being sat in an air conditioned room surrounded by screens is not how we should spend all of our time. In the modern era, humans as a species need to be fitter, healthier and more connected to the planet that we call home, whether that’s Earth, Mars or somewhere else. We need to learn to balance a sustainable love for nature with the technologies that allow humans to thrive and reach their potential.
 

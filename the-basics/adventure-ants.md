@@ -12,28 +12,28 @@ If you thought the Twimp App sounded cool, you ain't seen nothin' yet. Welcome t
 
 Starting with the ant hierarchy from the top…
 
-## Species
+## Tribes
 
-Going back to the real world, we have thousands of species of ants but they tend to fall into 4 different categories which we denote by colour. The species is only important for team membership and has no utility difference.
+Going back to the real world, we have thousands of species of ants but they tend to fall into 4 different tribes. The tribe is only important for team membership and has no utility difference.
 
-| Colour | Utility                  |
+| Tribe | Utility                  |
 | ------ | ------------------------ |
-| Black  | Can join Black colonies  |
-| Green  | Can join Green colonies  |
-| Red    | Can join Red colonies    |
-| Yellow | Can join Yellow colonies |
+| Garden | Can join Garden colonies  |
+| Tree | Can join Tree colonies  |
+| Fire    | Can join Fire colonies    |
+| Meadow | Can join Meadow colonies |
 
-Within each species, there are multiple colonies.
+Within each tribe, there are multiple colonies.
 
 ## Colonies
 
-Each colony forms independent teams within a species. This is the social aspect of the game and where you can interact with others in the same colony and share your adventures. Each colony will be run by a queen who is also a player. Therefore, strategy would be dynamic between colonies and we can’t wait to see how that plays out.
+Each colony forms independent teams within a tribe. This is the social aspect of the game and where you can interact with others in the same colony and share your adventures. Each colony will be run by a queen who is also a player. Therefore, strategy would be dynamic between colonies and we can’t wait to see how that plays out.
 
 Colonies may choose to create private channels on Discord or other platforms exclusively for their members (effectively operate as their own DAO if they so wish). By working together as a colony and playing the game, you can also compete to win the DominANT World Cup (more on that later).
 
 The success of the colony will largely depend on its leader. A good leader will spread the word of Twimp and its mission far and wide, delegate responsibilities and encourage more players and more owners of ants and other tokens. They will also encourage their members to do the same and to work together for the common good of the colony.
 
-It’s all about creating friendly competition between colonies and species. But if you don’t like the direction of your colony, for a price you will be able to defect to another within the same species. If you’re feeling particularly mischievous, maybe you’ll even choose to be a double agent.
+It’s all about creating friendly competition between colonies and tribes. But if you don’t like the direction of your colony, for a price you will be able to defect to another within the same tribe. If you’re feeling particularly mischievous, maybe you’ll even choose to be a double agent.
 
 OK, time to explain the hierarchy within the colony.
 
@@ -79,7 +79,7 @@ Each worker or drone ant has a series of traits and each has its own utility, so
 
 | Accessory slot | Description                                                                                                                                                                                                                                         |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Colour         | Depicts the species your ant belongs to. Deliberately and categorically no additional utility will be given based on this trait. However, maybe of all the colonies, one stands out to be the cool kids and who doesn’t want to be in that colony!? |
+| Colour         | Depicts the tribe your ant belongs to. Deliberately and categorically no additional utility will be given based on this trait. However, maybe of all the colonies, one stands out to be the cool kids and who doesn’t want to be in that colony!? |
 | Head           | Some ants get a hat…you can tell a lot about an ant by their choice of hat… or not.                                                                                                                                                                 |
 | Body           | Some ants have the cool and aesthetic benefit of wearing a top. Somewhat inline with local fashion.                                                                                                                                                 |
 | Feet           | Some ants will receive either sandals, walking shoes or hiking boots. This has the benefit of increasing a player’s collection radius. You’ll see what we mean when you play.                                                                       |
