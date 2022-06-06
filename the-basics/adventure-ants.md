@@ -8,7 +8,7 @@ At the most basic level, we need to monitor a healthy marketplace so that our NF
 
 We want you and everyone you know out in the real world enjoying nature. To help nudge you in that direction we’re making things fun by gamifying these activities. That’s exactly why we’re called Twimp (The World Is My Playground). There’s so much fun to be had out there, and the Adventure Ant collection is an opportunity to play, explore and learn in a brand new way.
 
-If you thought the Twimp App sounded cool, you’ve not seen anything yet. Welcome to the game behind the game!
+If you thought the Twimp App sounded cool, you ain't seen nothin' yet. Welcome to the game behind the game!
 
 Starting with the ant hierarchy from the top…
 

@@ -2,7 +2,7 @@
 
 There are many ways to be rewarded while out exploring the real world with your Adventure Ant. Rewards mapped below for most common interactions:
 
-| Interaction                                | Common                                                                      | Rare                |
+| Interaction                                | Frequently Receive                                                                      | Rarely Receive                |
 | ------------------------------------------ | --------------------------------------------------------------------------- | ------------------- |
 | Completing a verified trail                | 1-6 coins                                                                   | Treasure chest, key |
 | Opening a treasure chest                   | 0.4 coins                                                                   | Food, NFT, key      |
