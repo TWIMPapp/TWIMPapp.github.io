@@ -8,40 +8,40 @@ At the most basic level, we need to monitor a healthy marketplace so that our NF
 
 We want you and everyone you know out in the real world enjoying nature. To help nudge you in that direction we’re making things fun by gamifying these activities. That’s exactly why we’re called Twimp (The World Is My Playground). There’s so much fun to be had out there, and the Adventure Ant collection is an opportunity to play, explore and learn in a brand new way.
 
-If you thought the Twimp App sounded cool, you’ve not seen anything yet. Welcome to the game behind the game!
+If you thought the Twimp App sounded cool, you ain't seen nothin' yet. Welcome to the game behind the game!
 
 Starting with the ant hierarchy from the top…
 
-## Species
+## Tribes
 
-Going back to the real world, we have thousands of species of ants but they tend to fall into 4 different categories which we denote by colour. The species is only important for team membership and has no utility difference.
+Going back to the real world, we have thousands of species of ants but they tend to fall into 4 different tribes. The tribe is only important for team membership and has no utility difference.
 
-| Colour | Utility                  |
+| Tribe | Utility                  |
 | ------ | ------------------------ |
-| Black  | Can join Black colonies  |
-| Green  | Can join Green colonies  |
-| Red    | Can join Red colonies    |
-| Yellow | Can join Yellow colonies |
+| Garden | Can join Garden colonies  |
+| Tree | Can join Tree colonies  |
+| Fire    | Can join Fire colonies    |
+| Meadow | Can join Meadow colonies |
 
-Within each species, there are multiple colonies.
+Within each tribe, there are multiple colonies.
 
 ## Colonies
 
-Each colony forms independent teams within a species. This is the social aspect of the game and where you can interact with others in the same colony and share your adventures. Each colony will be run by a queen who is also a player. Therefore, strategy would be dynamic between colonies and we can’t wait to see how that plays out.
+Each colony forms independent teams within a tribe. This is the social aspect of the game and where you can interact with others in the same colony and share your adventures. Each colony will be run by a queen who is also a player. Therefore, strategy would be dynamic between colonies and we can’t wait to see how that plays out.
 
 Colonies may choose to create private channels on Discord or other platforms exclusively for their members (effectively operate as their own DAO if they so wish). By working together as a colony and playing the game, you can also compete to win the DominANT World Cup (more on that later).
 
 The success of the colony will largely depend on its leader. A good leader will spread the word of Twimp and its mission far and wide, delegate responsibilities and encourage more players and more owners of ants and other tokens. They will also encourage their members to do the same and to work together for the common good of the colony.
 
-It’s all about creating friendly competition between colonies and species. But if you don’t like the direction of your colony, for a price you will be able to defect to another within the same species. If you’re feeling particularly mischievous, maybe you’ll even choose to be a double agent.
+It’s all about creating friendly competition between colonies and tribes. But if you don’t like the direction of your colony, for a price you will be able to defect to another within the same tribe. If you’re feeling particularly mischievous, maybe you’ll even choose to be a double agent.
 
 OK, time to explain the hierarchy within the colony.
 
-## Ant Castes
+## Ant Ranks
 
-To replicate the ants role in the real world, we have three different castes of ants.
+To replicate the ants role in the real world, we have three different rank of ants.
 
-| Caste  | Energy | Utility                                                                                                                                             |
+| Rank  | Energy | Utility                                                                                                                                             |
 | ------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Queen  | 5      | <ul><li>Leads a colony</li><li>Can mint new workers once a month</li><li>Can see quality of food</li><li>Can create trails</li><li>Can verify trails</li></ul> |
 | Drone  | 3      | <ul><li>Can mint new workers once a month</li><li>Can create trails</li><li>Can verify trails</li></ul>                                                        |
@@ -51,7 +51,7 @@ To replicate the ants role in the real world, we have three different castes of 
 
 The Queen ant is the leader of the colony and oversees the comings and goings of all ants in their colony. They are the coordinator, the advocate, the strategist.
 
-The Queen is the biggest ant with the highest energy (can collect lots of coins! 👀). They are also the only caste which can see the value of each food item, unfortunately though they cannot collect it. With an abundance of energy they should have the easiest time collecting coins and managing their territory which makes them exceedingly rare and valuable. Plus, they have incredible wings.
+The Queen is the biggest ant with the highest energy (can collect lots of coins! 👀). They are also the only rank which can see the value of each food item, unfortunately though they cannot collect it. With an abundance of energy they should have the easiest time collecting coins and managing their territory which makes them exceedingly rare and valuable. Plus, they have incredible wings.
 
 In addition, the queen is the main benefactor of the monthly mint event, a process that airdrops new Worker Ant NFTs for them to do as they see fit.
 
@@ -69,7 +69,7 @@ Drones are randomly selected to mint with the queen of their own colony during t
 
 Lastly, we have the worker ant. The workhorse of the colony (as you’d imagine given their name) but their efforts as heroes of the colony cannot be overlooked. That’s simply why our initial collection is made up of these little creatures.
 
-Worker ants can collect coins and food and although they may not be perceived as the highest ranking officials, they are unique in that they are the only caste which can evolve. In exchange for $PLAY, you can choose to evolve into a drone at any time once you have acquired enough $PLAY to make the transition.
+Worker ants can collect coins and food and although they may not be perceived as the highest ranking officials, they are unique in that they are the only rank which can evolve. In exchange for $PLAY, you can choose to evolve into a drone at any time once you have acquired enough $PLAY to make the transition.
 
 ?> **Note:** Evolution is a one time event and cannot be undone. The worker ant involved will be burned to maintain the collection size as a fixed quantity.
 
@@ -79,7 +79,7 @@ Each worker or drone ant has a series of traits and each has its own utility, so
 
 | Accessory slot | Description                                                                                                                                                                                                                                         |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Colour         | Depicts the species your ant belongs to. Deliberately and categorically no additional utility will be given based on this trait. However, maybe of all the colonies, one stands out to be the cool kids and who doesn’t want to be in that colony!? |
+| Colour         | Depicts the tribe your ant belongs to. Deliberately and categorically no additional utility will be given based on this trait. However, maybe of all the colonies, one stands out to be the cool kids and who doesn’t want to be in that colony!? |
 | Head           | Some ants get a hat…you can tell a lot about an ant by their choice of hat… or not.                                                                                                                                                                 |
 | Body           | Some ants have the cool and aesthetic benefit of wearing a top. Somewhat inline with local fashion.                                                                                                                                                 |
 | Feet           | Some ants will receive either sandals, walking shoes or hiking boots. This has the benefit of increasing a player’s collection radius. You’ll see what we mean when you play.                                                                       |
